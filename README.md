@@ -6,4 +6,4 @@ HTML<br>
 CSS<br>
 JAVACRIPT<br>
 here the link of project<br>
-{https://hareshyadav1.netlify.app/}
+https://hareshyadav1.netlify.app/
